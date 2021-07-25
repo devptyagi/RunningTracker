@@ -12,6 +12,8 @@ An Android app that helps your keep a track of your morning jogs.
 - Keeps tracking the location even in the background.
 - Pause / Resume tracking from the notification.
 - Shows total calories burned.
+- Dependency injection using Dagger Hilt.
+- Kotlin Coroutines.
 
 ## Priviews
 
