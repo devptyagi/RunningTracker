@@ -1,4 +1,4 @@
-# RunningTracker
+# Running Tracker
 
 An Android app that helps your keep a track of your morning jogs. 
 
