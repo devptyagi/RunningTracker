@@ -1,6 +1,6 @@
 # Running Tracker
 
-An Android app that helps your keep a track of your morning jogs. 
+A running tracker android app that uses Google Maps SDK to locate and track morning jogs/runs, calculates distance travelled and calories burned.
 
 <img src="Screenshots/run_records.png" height="400"/> <img src="Screenshots/statistics.png" height="400"/> <img src="Screenshots/settings.png" height="400"/>
 
